@@ -1,0 +1,50 @@
+body { background-color: #EADADA;
+	background-image: url(stones.jpg);
+	text-decoration-color:green;
+	
+ }
+
+ .header{
+text-align:center;
+background-color:#1DD1E5;
+text-decoration-color:#E51DA9;
+padding:5px;
+border:#E51DA9; }
+
+
+.navbar{ 
+ 	padding:6px;
+ 	text-decoration:none;
+ 	background-color:white;
+ 	text-underline-position:none;
+  }
+  .navbar li{
+
+  	text-decoration:none;
+  	color:grey;
+list-style: none;
+display: inline;
+  
+  }
+
+.navbar a {
+
+	text-decoration: none;
+	color: black;
+	padding: 18px;
+	margin-bottom: 0;
+
+
+}
+
+.main{
+
+
+}
+
+.mainfooter {
+background-color: #1DD1E5;
+padding: 18px;
+margin:0;
+
+}
